@@ -3,9 +3,13 @@ MarkDown 是一种超文本语言，今天我第一次学习了它。
 Hello MarkDown
 接下来我还会学习
 
-1. Git的基础命令
-1. Hexo的框架
-1. Hexo更换主题
+##1. Git的基础命令
+1.git add -A
+1. git commit -m
+1. git push
+1. git pull
+##1. Hexo的框架
+##1. Hexo更换主题
 
 用命令行敲命令是一种Greek行为，我觉得还挺有趣的。
 

@@ -4,10 +4,10 @@ Hello MarkDown
 接下来我还会学习
 
 ## 1. Git的基础命令
-1.git add -A
-1. git commit -m
-1. git push
-1. git pull
+1. git add -A 全部加入
+1. git commit -m 提交原因
+1. git push 上传
+1. git pull 手动修改
 ## 1. Hexo的框架
 ## 1. Hexo更换主题
 
